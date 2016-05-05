@@ -8,3 +8,4 @@ this is my 1th to add.
 8th from master.
 9th from master to verify default push.
 10th check if the conflict merge produces twice commit? merge from cheng
+11th test rebase1
